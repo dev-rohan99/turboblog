@@ -151,10 +151,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 📄 License
 
 This project is licensed under the MIT License.
-
-
----
-
-This README is **professional, structured, and beginner-friendly** — perfect for GitHub.  
-
-👉 Do you also want me to create a **`mock-data.js` file** (users, posts, comments, tags) so you can include it in
